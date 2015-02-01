@@ -23,4 +23,3 @@ Checkout http://css-tricks.com/snippets/css/a-guide-to-flexbox/ for an excellent
 4. _flex-basis_: Base height/width of the container before growing or shrinking. 
 5. _flex_: Combines flex-grow, flex-shrink and flex-basis
 6. _align-self_: Override parent's align-items value for this specific element
-6. 
